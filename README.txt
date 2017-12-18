@@ -1,4 +1,4 @@
-# Quick guide##
+# Quick guide
 
 ## 1. Download pretrained Inception-ResNet 
 https://drive.google.com/open?id=1ucEvrbOrqUJO_v80aifVXzg2xb3oA2-J
