@@ -23,3 +23,9 @@ https://drive.google.com/open?id=1ucEvrbOrqUJO_v80aifVXzg2xb3oA2-J
 ## 4. Run 
 ```main.py```
 
+
+## Known identity
+![alt text](https://github.com/FilippoGrazioli/Facial_Verification_Real_Time/blob/master/demo/known.gif)
+## Unknown identity
+![alt text](https://github.com/FilippoGrazioli/Facial_Verification_Real_Time/blob/master/demo/unknown.gif)
+
